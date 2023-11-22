@@ -75,7 +75,7 @@ ul .list {
 
 .list.active a .icon {
   transition-delay: 200ms;
-  transform: translateY(-45px);
+  transform: translateY(-43px);
 }
 
 .list a .text {
