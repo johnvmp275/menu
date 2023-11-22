@@ -28,8 +28,7 @@ section {
 .nav-menu {
   position: fixed;
   background: var(--background-02);
-  max-width: 400px;
-  width: 100%;
+  width: 99%;
   height: 78px;
   bottom: 5px;
   display: flex;
